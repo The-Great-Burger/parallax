@@ -241,7 +241,7 @@ footer{
   position: absolute;
   transform: translateY(-35%);
   width: 70px;
-  z-index: 999;
+  z-index: -999;
 }
 
 .left {
